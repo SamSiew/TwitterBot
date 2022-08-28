@@ -16,6 +16,7 @@
     "dotenv": "^16.0.0",
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.18.0",
+    "node-schedule": "^2.1.0",
     "openai": "^3.0.0",
     "twitter-api-v2": "^1.12.3"
   },
